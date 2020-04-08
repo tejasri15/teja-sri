@@ -1,0 +1,14 @@
+{
+  "name": "htmltopdfconertornode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "teja",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "phantom-html-to-pdf": "^0.6.0"
+  }
+}
